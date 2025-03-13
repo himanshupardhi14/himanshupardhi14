@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My GitHub Profile! 👋
 
-**Hi there! I'm [Your Name]**, a passionate **Python AI/ML Developer** with expertise in building intelligent systems and web applications. I enjoy working on AI, ML, and deep learning projects while developing robust backend solutions with Django. Let's connect and innovate together! 🌟
+**Hi there! I'm Himanshu**, a passionate **Python AI/ML Developer** with expertise in building intelligent systems and web applications. I enjoy working on AI, ML, and deep learning projects while developing robust backend solutions with Django. Let's connect and innovate together! 🌟
 
 ---
 
